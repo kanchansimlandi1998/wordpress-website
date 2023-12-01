@@ -1,2 +1,2 @@
-# wordpress-website
-It a wordpress project.
+# alongkari_jewellery
+This is a wordpress project
